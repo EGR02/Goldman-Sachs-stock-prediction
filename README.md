@@ -1,1 +1,0 @@
-# Goldman-Sachs-stock-prediction-seven-days-trend
