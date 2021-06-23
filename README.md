@@ -6,4 +6,4 @@ You will find two files, a report and the three models in one unique ipynb file:
     - Project.iypnb. There you will find: a LSTM model that takes into account two features, a LSTM with one single feature and the LSTM 7 dense for predicting
                       the next seven prices.
 
-N.B. I'll upload the models seperately, I'll show the predictions for the test set, as well. I can alreay tell you that the predictions for the test set are worse than the valid set (look at the models, and you will find an answer).
+N.B. I'll upload the models seperately, I'll show the predictions for the test set, as well. I can already tell you that the predictions for the test set are worse than the valid set (look at the models, and you will find an answer).
